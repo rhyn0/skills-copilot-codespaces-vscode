@@ -1,3 +1,4 @@
+// Create web server
 // create an express web server to serve routes on 8080
 // and a socket.io server to serve on 8081
 
